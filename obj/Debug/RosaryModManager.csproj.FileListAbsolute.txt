@@ -1,0 +1,12 @@
+C:\Users\keith\Desktop\GTR\RosaryModManager\RosaryModManager\bin\Debug\RosaryModManager.exe.config
+C:\Users\keith\Desktop\GTR\RosaryModManager\RosaryModManager\bin\Debug\RosaryModManager.exe
+C:\Users\keith\Desktop\GTR\RosaryModManager\RosaryModManager\bin\Debug\RosaryModManager.pdb
+C:\Users\keith\Desktop\GTR\RosaryModManager\RosaryModManager\bin\Debug\Guna.UI2.dll
+C:\Users\keith\Desktop\GTR\RosaryModManager\RosaryModManager\obj\Debug\RosaryModManager.csproj.AssemblyReference.cache
+C:\Users\keith\Desktop\GTR\RosaryModManager\RosaryModManager\obj\Debug\RosaryModManager.Main.resources
+C:\Users\keith\Desktop\GTR\RosaryModManager\RosaryModManager\obj\Debug\RosaryModManager.Properties.Resources.resources
+C:\Users\keith\Desktop\GTR\RosaryModManager\RosaryModManager\obj\Debug\RosaryModManager.csproj.GenerateResource.cache
+C:\Users\keith\Desktop\GTR\RosaryModManager\RosaryModManager\obj\Debug\RosaryModManager.csproj.CoreCompileInputs.cache
+C:\Users\keith\Desktop\GTR\RosaryModManager\RosaryModManager\obj\Debug\RosaryMo.EDFAC7B6.Up2Date
+C:\Users\keith\Desktop\GTR\RosaryModManager\RosaryModManager\obj\Debug\RosaryModManager.exe
+C:\Users\keith\Desktop\GTR\RosaryModManager\RosaryModManager\obj\Debug\RosaryModManager.pdb
